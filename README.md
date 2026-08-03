@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Saarthi09/Leetcode-practice/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/Saarthi09/Leetcode-practice/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Saarthi09/Leetcode-practice/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Saarthi09/Leetcode-practice/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0896-monotonic-array](https://github.com/Saarthi09/Leetcode-practice/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/Saarthi09/Leetcode-practice/tree/master/0905-sort-array-by-parity) |
 ## Two Pointers
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Saarthi09/Leetcode-practice/tree/master/0015-3sum) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Saarthi09/Leetcode-practice/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/Saarthi09/Leetcode-practice/tree/master/0905-sort-array-by-parity) |
 ## Stack
 |  |
