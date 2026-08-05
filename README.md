@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Saarthi09/Leetcode-practice/tree/master/0015-3sum) |
+| [0031-next-permutation](https://github.com/Saarthi09/Leetcode-practice/tree/master/0031-next-permutation) |
 | [0046-permutations](https://github.com/Saarthi09/Leetcode-practice/tree/master/0046-permutations) |
 | [0303-range-sum-query-immutable](https://github.com/Saarthi09/Leetcode-practice/tree/master/0303-range-sum-query-immutable) |
 | [0682-baseball-game](https://github.com/Saarthi09/Leetcode-practice/tree/master/0682-baseball-game) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Saarthi09/Leetcode-practice/tree/master/0015-3sum) |
+| [0031-next-permutation](https://github.com/Saarthi09/Leetcode-practice/tree/master/0031-next-permutation) |
 | [0905-sort-array-by-parity](https://github.com/Saarthi09/Leetcode-practice/tree/master/0905-sort-array-by-parity) |
 ## Sorting
 |  |
