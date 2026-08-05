@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Saarthi09/Leetcode-practice/tree/master/0015-3sum) |
 | [0046-permutations](https://github.com/Saarthi09/Leetcode-practice/tree/master/0046-permutations) |
+| [0303-range-sum-query-immutable](https://github.com/Saarthi09/Leetcode-practice/tree/master/0303-range-sum-query-immutable) |
 | [0682-baseball-game](https://github.com/Saarthi09/Leetcode-practice/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/Saarthi09/Leetcode-practice/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Saarthi09/Leetcode-practice/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Saarthi09/Leetcode-practice/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/Saarthi09/Leetcode-practice/tree/master/0724-find-pivot-index) |
 ## Binary Search
 |  |
@@ -43,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Saarthi09/Leetcode-practice/tree/master/0046-permutations) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Saarthi09/Leetcode-practice/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
