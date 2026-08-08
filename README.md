@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Saarthi09/Leetcode-practice/tree/master/0031-next-permutation) |
 | [0046-permutations](https://github.com/Saarthi09/Leetcode-practice/tree/master/0046-permutations) |
 | [0303-range-sum-query-immutable](https://github.com/Saarthi09/Leetcode-practice/tree/master/0303-range-sum-query-immutable) |
+| [0349-intersection-of-two-arrays](https://github.com/Saarthi09/Leetcode-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0682-baseball-game](https://github.com/Saarthi09/Leetcode-practice/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/Saarthi09/Leetcode-practice/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Saarthi09/Leetcode-practice/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -19,12 +20,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Saarthi09/Leetcode-practice/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Saarthi09/Leetcode-practice/tree/master/0031-next-permutation) |
+| [0349-intersection-of-two-arrays](https://github.com/Saarthi09/Leetcode-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/Saarthi09/Leetcode-practice/tree/master/0905-sort-array-by-parity) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Saarthi09/Leetcode-practice/tree/master/0015-3sum) |
 | [0242-valid-anagram](https://github.com/Saarthi09/Leetcode-practice/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Saarthi09/Leetcode-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Saarthi09/Leetcode-practice/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/Saarthi09/Leetcode-practice/tree/master/0905-sort-array-by-parity) |
 ## Stack
@@ -43,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Saarthi09/Leetcode-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Saarthi09/Leetcode-practice/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Backtracking
 |  |
@@ -58,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Saarthi09/Leetcode-practice/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/Saarthi09/Leetcode-practice/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Saarthi09/Leetcode-practice/tree/master/0290-word-pattern) |
+| [0349-intersection-of-two-arrays](https://github.com/Saarthi09/Leetcode-practice/tree/master/0349-intersection-of-two-arrays) |
 ## Math
 |  |
 | ------- |
