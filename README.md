@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Saarthi09/Leetcode-practice/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/Saarthi09/Leetcode-practice/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Saarthi09/Leetcode-practice/tree/master/0290-word-pattern) |
 ## Math
 |  |
 | ------- |
@@ -66,4 +67,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Saarthi09/Leetcode-practice/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/Saarthi09/Leetcode-practice/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Saarthi09/Leetcode-practice/tree/master/0290-word-pattern) |
 <!---LeetCode Topics End-->
