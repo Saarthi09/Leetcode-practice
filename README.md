@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Saarthi09/Leetcode-practice/tree/master/0015-3sum) |
+| [0242-valid-anagram](https://github.com/Saarthi09/Leetcode-practice/tree/master/0242-valid-anagram) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Saarthi09/Leetcode-practice/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/Saarthi09/Leetcode-practice/tree/master/0905-sort-array-by-parity) |
 ## Stack
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Saarthi09/Leetcode-practice/tree/master/0013-roman-to-integer) |
+| [0242-valid-anagram](https://github.com/Saarthi09/Leetcode-practice/tree/master/0242-valid-anagram) |
 ## Math
 |  |
 | ------- |
@@ -63,4 +65,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Saarthi09/Leetcode-practice/tree/master/0013-roman-to-integer) |
+| [0242-valid-anagram](https://github.com/Saarthi09/Leetcode-practice/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
