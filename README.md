@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Saarthi09/Leetcode-practice/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Saarthi09/Leetcode-practice/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Saarthi09/Leetcode-practice/tree/master/0031-next-permutation) |
 | [0046-permutations](https://github.com/Saarthi09/Leetcode-practice/tree/master/0046-permutations) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Saarthi09/Leetcode-practice/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Saarthi09/Leetcode-practice/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/Saarthi09/Leetcode-practice/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Saarthi09/Leetcode-practice/tree/master/0290-word-pattern) |
