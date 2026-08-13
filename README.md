@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Saarthi09/Leetcode-practice/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Saarthi09/Leetcode-practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/Saarthi09/Leetcode-practice/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Saarthi09/Leetcode-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Saarthi09/Leetcode-practice/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/Saarthi09/Leetcode-practice/tree/master/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/Saarthi09/Leetcode-practice/tree/master/0046-permutations) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Saarthi09/Leetcode-practice/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Saarthi09/Leetcode-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Saarthi09/Leetcode-practice/tree/master/0031-next-permutation) |
 | [0349-intersection-of-two-arrays](https://github.com/Saarthi09/Leetcode-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/Saarthi09/Leetcode-practice/tree/master/0905-sort-array-by-parity) |
