@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Saarthi09/Leetcode-practice/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/Saarthi09/Leetcode-practice/tree/master/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/Saarthi09/Leetcode-practice/tree/master/0046-permutations) |
+| [0066-plus-one](https://github.com/Saarthi09/Leetcode-practice/tree/master/0066-plus-one) |
 | [0303-range-sum-query-immutable](https://github.com/Saarthi09/Leetcode-practice/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/Saarthi09/Leetcode-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0682-baseball-game](https://github.com/Saarthi09/Leetcode-practice/tree/master/0682-baseball-game) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Saarthi09/Leetcode-practice/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/Saarthi09/Leetcode-practice/tree/master/0066-plus-one) |
 ## String
 |  |
 | ------- |
