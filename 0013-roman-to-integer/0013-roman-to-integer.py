@@ -13,6 +13,16 @@ class Solution(object):
         total = 0
 
         for i in range(len(s)):
+            if i + 1 < len(s) and values[s[i]] < values[s[i + 1]]:
+                total -= values[s[i]]
+            else:
+                total += values[s[i]]
+
+        return total
+
+        total = 0
+
+        for i in range(len(s)):
             if i < len(s) - 1 and values[s[i]] < values[s[i + 1]]:
                 total -= values[s[i]]
             else:
