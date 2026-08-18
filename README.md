@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Saarthi09/Leetcode-practice/tree/master/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/Saarthi09/Leetcode-practice/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/Saarthi09/Leetcode-practice/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/Saarthi09/Leetcode-practice/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/Saarthi09/Leetcode-practice/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/Saarthi09/Leetcode-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0682-baseball-game](https://github.com/Saarthi09/Leetcode-practice/tree/master/0682-baseball-game) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Saarthi09/Leetcode-practice/tree/master/0015-3sum) |
 | [0242-valid-anagram](https://github.com/Saarthi09/Leetcode-practice/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Saarthi09/Leetcode-practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Saarthi09/Leetcode-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Saarthi09/Leetcode-practice/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/Saarthi09/Leetcode-practice/tree/master/0905-sort-array-by-parity) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Saarthi09/Leetcode-practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0268-missing-number](https://github.com/Saarthi09/Leetcode-practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Saarthi09/Leetcode-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Saarthi09/Leetcode-practice/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Backtracking
@@ -74,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Saarthi09/Leetcode-practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/Saarthi09/Leetcode-practice/tree/master/0036-valid-sudoku) |
 | [0242-valid-anagram](https://github.com/Saarthi09/Leetcode-practice/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Saarthi09/Leetcode-practice/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Saarthi09/Leetcode-practice/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Saarthi09/Leetcode-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Saarthi09/Leetcode-practice/tree/master/0383-ransom-note) |
@@ -83,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Saarthi09/Leetcode-practice/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Saarthi09/Leetcode-practice/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/Saarthi09/Leetcode-practice/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -109,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Saarthi09/Leetcode-practice/tree/master/0004-median-of-two-sorted-arrays) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Saarthi09/Leetcode-practice/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
